@@ -1,0 +1,16 @@
+name: dynamoose
+id: ari:cloud:compass:10bbb3dc-af77-41b5-80dc-87bb5df662ea:component/fb7e86dd-cade-489b-b00f-032c2aef7a62/8607e7ba-44c0-496f-9a19-5c6a529633fa
+description: Dynamoose is a modeling tool for Amazon's DynamoDB
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/BGC-Brasil/dynamoose
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
